@@ -51,7 +51,7 @@ hero_media = "book.svg"
   label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-For [Academic Website Builder](https://sourcethemes.com/academic/).
+For [Sara web](https://sourcethemes.com/academic/).
 
 Write something interesting about your project here.
 
