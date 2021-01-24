@@ -1,9 +1,6 @@
----
++++
 date: 2017-12-01
 title: My first blog post
----
-
-+++
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
