@@ -53,10 +53,7 @@ hero_media = "book.svg"
 
 For [Sara web](https://sourcethemes.com/academic/).
 
-Write something interesting about your project here.
+This is my firts project.. I am trying to learn 
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
----
-date: 2017-12-01
-title: My first blog post
----
+
