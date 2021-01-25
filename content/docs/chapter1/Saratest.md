@@ -13,7 +13,6 @@ weight: 2
 image: testpicture.jpg
   placement: 1
   focal_point: "Center"
-  preview_only: false
   alt_text: hello 
 ---
 
