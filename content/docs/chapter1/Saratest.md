@@ -18,6 +18,6 @@ image: testpicture.jpg
   alt_text: hello 
 ---
 
-## Sara test heading 2
+##Sara test heading 2
 
 This is a page for testing 
