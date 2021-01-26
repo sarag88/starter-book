@@ -8,6 +8,11 @@ date: 2021- 01- 25
 weight: 2
 ---
 
+hello
+
+![](/img/kunivlogo.png)
+![](/img/testpicture.jpg)
+
 ## Heading 2: Sara 2
 
 This is a page for testing
