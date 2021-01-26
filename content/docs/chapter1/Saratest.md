@@ -20,4 +20,4 @@ image: testpicture.jpg
 
 ## Heading 2: Sara 2
 
-This is a page for testing 
+**This is a page for testing**
