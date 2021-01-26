@@ -6,7 +6,11 @@ date: 2021- 01- 25
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
+---
 
+## Heading 2: Sara 2
+
+This is a page for testing
 
 # testpicture 
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
@@ -16,8 +20,3 @@ image: testpicture.jpg
   placement: 1
   focal_point: "Center"
   alt_text: hello 
----
-
-## Heading 2: Sara 2
-
-**This is a page for testing**
