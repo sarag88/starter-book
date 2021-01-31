@@ -1,21 +1,29 @@
 ---
-title: Sara test 
-linktitle: Saratest 
-type: book
-date: 2021- 01- 25
+# Title, summary, and page position.
+linktitle: Sara test
+summary: this is a testing page
+weight: 3
+icon: book
+icon_pack: fas
 
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+# Page metadata.
+title: Chapter 1
+date: "2018-09-09T00:00:00Z"
+type: book  # Do not modify.
 ---
+
 
 ## Heading 2: Sara 2
 
-This is a page for testing
+This is a page for testing  
 
-# testpicture 
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# Set `preview_only` to `true` to just use the image for thumbnails.
+
+![A test image](chapter1/testpicture.jpg)
+
+
+[CMU](http://cba.edu.kw/cmu)
+
+
 image: testpicture.jpg
   placement: 1
   focal_point: "Center"
