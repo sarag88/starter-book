@@ -15,7 +15,7 @@ type: book  # Do not modify.
 hello
 
 ![](/img/kunivlogo.png)
-![](/img/testpicture.jpg)
+![](/img/testpictures.jpg)
 
 ## Heading 2: Sara 2
 
