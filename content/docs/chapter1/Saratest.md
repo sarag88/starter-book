@@ -12,6 +12,10 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
+hello
+
+![](/img/kunivlogo.png)
+![](/img/testpicture.jpg)
 
 ## Heading 2: Sara 2
 
