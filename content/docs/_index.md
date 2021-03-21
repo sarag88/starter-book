@@ -12,7 +12,7 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-# AoL Department Preparation Checklist 
+**AoL Department Preparation Checklist**
 
 Review and forward revised CBA competency goals (attached) to all faculty in department  
 
