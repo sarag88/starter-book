@@ -11,3 +11,7 @@
   name = "docs"
   url = "docs/"
   weight = 5
+[[main]]
+  name = "drafting CLOs"
+  url = "drafting-clos/"
+  weight = 5

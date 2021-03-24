@@ -49,4 +49,4 @@ After selecting the verb, the object (or knowledge domain) is chosen from 4 diff
 
 Care should be taken when choosing verbs that they fit both the learning process and knowledge domain. The following graph shows the most appropriate verb to use based on the learning process and knowledge domain: 
 
-IMAGE???
+![](blooms.jpg)
