@@ -25,7 +25,7 @@ Please note that this is a department wide effort that should be guided and appr
     * If recent efforts to update course descriptions and content were approved by KU are not reflected in the official course descriptions document, kindly communicate the update to CMU. 
     * Faculty members can optionally add additional paragraphs to further clarify the course description. 
 3. Check that course learning objectives (CLOs) exist for the course and add them if missing: 
-    * Information on drafting learning objectives (below) 
+    * Information on drafting learning objectives [below](/drafting-clos)
      * Course learning objectives (CLOs) are necessary for AoL planning and should be maintained and updated by the academic department.  
 4. Perform the mapping of the course learning objectives (CLOs) to CBA’s competency goals. This is a necessary step to show how well the curriculum fits with CBA’s strategy and is necessary for AoL planning. To perform the mapping, please follow these steps: 
     * Compare each CLO (by their number) to CBA’s competency goals found at the end of the standardized syllabus template or attached with this packet. Specifically, you need to compare them to the competency goal’s student learning objectives as they reflect the operational definitions. 

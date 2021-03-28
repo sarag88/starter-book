@@ -8,10 +8,14 @@
   url = "dep-checklist/"
   weight = 10
 [[main]]
-  name = "docs"
-  url = "docs/"
-  weight = 5
-[[main]]
   name = "drafting CLOs"
   url = "drafting-clos/"
-  weight = 5
+  weight = 30
+[[main]]
+  name = "Steps to Standardizing a Syllabus"
+  url = "steps-standard-sylabus/"
+  weight = 20
+[[main]]
+  name = "Assessment Guidelines"
+  url = "assessment-guidelines/"
+  weight = 40

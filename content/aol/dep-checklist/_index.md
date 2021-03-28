@@ -18,11 +18,11 @@ type: book  # Do not modify.
 * The competency goals reflect CBA’s strategy and should be the focus of teaching collaboration and curriculum improvement over the next 5 years 
 * Please collect any comments for improvement or updates to be shared in the next College Academic Affairs Committee (CAAC) meeting. 
 2. **Check** that the **<ins>ALL core business courses<ins>** المقررات المشتركة have standardized syllabi 
-* Please see attached steps for standardizing syllabus (below) 
+* Please see attached steps for standardizing syllabus [below](/steps-standard-sylabus)
 * While the immediate need is to standardize the core courses, we highly recommend departments also follow through with standardizing the syllabus for all other courses in their department. 
 * Attached with this packet are the current copies of syllabi shared with CMU for your reference, please share with CMU any updated syllabi as part of the standardization effort. 
-3. **Review and update** attached curriculum map to reflect latest course learning objectives 
-* This step must be performed after standardizing syllabi for core courses and completing the mapping table as described (below) 
+1. **Review and update** attached curriculum map to reflect latest course learning objectives 
+* This step must be performed after standardizing syllabi for core courses and completing the mapping table as described [below](/drafting-clos)
 * Communicate to CMU any changes to curriculum map 
 * Ensure that mapping type (Intro, Reenforce, and Apply) is reflected correctly. 
 4. **Review** attached assessment plan for your information 
