@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
 linktitle: CMU test
-summary: move AoL packet 
-weight: 2
+summary: 
+weight: 3
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: 
+title: Checklist After Standardization 
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---

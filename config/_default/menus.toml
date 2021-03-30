@@ -4,18 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "department checklist"
-  url = "dep-checklist/"
+  name = "Assurance of Learning"
+  url = "aol/"
   weight = 10
 [[main]]
-  name = "drafting CLOs"
-  url = "drafting-clos/"
-  weight = 30
-[[main]]
-  name = "Steps to Standardizing a Syllabus"
-  url = "steps-standard-sylabus/"
-  weight = 20
-[[main]]
-  name = "Assessment Guidelines"
-  url = "assessment-guidelines/"
-  weight = 40
+  name = "Teaching Excellence"
+  url = "teaching-excellence/"
+  weight = 10

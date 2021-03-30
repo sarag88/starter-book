@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
 linktitle: CMU test
-summary: Assessment guidelines
-weight: 2
+summary: 
+weight: 5
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: 
+title: Assessment Guidelines
 date: "2018-09-09T00:00:00Z"
 type: post  # Do not modify.
 ---
